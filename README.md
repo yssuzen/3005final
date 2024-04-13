@@ -11,7 +11,8 @@
 # Project Report
 
 # ER Diagram
-![ERDiagram drawio (1)](https://github.com/yssuzen/3005final/assets/77358030/9c5f2524-adb1-4edd-8ef2-58305f0c8578)
+![ERDiagram drawio (2)](https://github.com/yssuzen/3005final/assets/77358030/ac72343b-975c-4c41-9d44-039bc8f47a68)
+
 
 
 # Database Schema
