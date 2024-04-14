@@ -16,7 +16,8 @@
 
 
 # Database Schema
-![databaseSchema drawio (1)](https://github.com/yssuzen/3005final/assets/77358030/44eff7d6-1282-40fb-8863-43a6b4ae2a0a)
+![databaseSchema drawio (2)](https://github.com/yssuzen/3005final/assets/77358030/550a1ce5-2b6f-4887-80f8-905ab034e152)
+
 
 
 # DDL and DML
