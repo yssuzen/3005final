@@ -2,6 +2,7 @@
 - This project has two sql files.
 - One python file to one this project you need to create database first.
 - Then you need to execute required sql codes.
+- Since the video requirements are not clear, it says at most 15 minutes, we were not sure to create additional videao that explain testing demo. For example, member billing, a member receives their billing in their account automaticcally. They can make their payment by going to the front desk of the gym. Since we have a limitation of the video time, we did not record this.
 - Video Link: https://www.youtube.com/watch?v=RjzeXyviTls 
 
 # Members
