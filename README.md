@@ -48,6 +48,7 @@ classes through different mechanisms or tables.
 
 
 **Entity Definitions**
+
 -Members: Individuals who register to access various fitness programs and services. They have
 attributes such as name, email, phone number, and health metrics, which include fitness goals.
 - Trainers: Certified professionals who provide personal training and lead group fitness classes.
