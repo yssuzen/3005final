@@ -1,11 +1,13 @@
 # README
+- This project has two sql files.
+- One python file to one this project you need to create database first.
+- Then you need to execute required sql codes.
+- Video Link: https://www.youtube.com/watch?v=RjzeXyviTls 
 
 # Members
 - Mustafa Dursunoglu - 101226363
 - Emrehan Sagin - 101223876
 - Yavuz Selim Suzen - 101215831
-
-
 
 
 # Project Report
