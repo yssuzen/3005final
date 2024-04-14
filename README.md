@@ -20,7 +20,7 @@
 
 
 # DDL and DML
-.SQL files are in the repository.
+.SQL files are in the project repository.
 
 
 # Design Decisions: Assumptions and Entity Definitions 
