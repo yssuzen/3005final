@@ -24,4 +24,4 @@
 
 
 # Design Decisions: Assumptions and Entity Definitions 
-[Assumptions and Entity Definitions.pdf](https://github.com/yssuzen/3005final/files/14969054/Assumptions.and.Entity.Definitions.pdf)
+[Assumptions and Entity Definitions (1).pdf](https://github.com/yssuzen/3005final/files/14969104/Assumptions.and.Entity.Definitions.1.pdf)
