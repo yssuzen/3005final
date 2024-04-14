@@ -21,3 +21,7 @@
 
 # DDL and DML
 [DDL and DML File.pdf](https://github.com/yssuzen/3005final/files/14968963/DDL.and.DML.File.pdf)
+
+
+# Design Decisions: Assumptions and Entity Definitions 
+[Assumptions and Entity Definitions.pdf](https://github.com/yssuzen/3005final/files/14969054/Assumptions.and.Entity.Definitions.pdf)
