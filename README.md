@@ -20,7 +20,7 @@
 
 
 # DDL and DML
-[DDL and DML File.pdf](https://github.com/yssuzen/3005final/files/14968963/DDL.and.DML.File.pdf)
+.SQL files are in the repository.
 
 
 # Design Decisions: Assumptions and Entity Definitions 
